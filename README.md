@@ -21,7 +21,7 @@ Step 4:
 Run the Django server and execute the HTML files.
 
 ## Code:
-
+```
 map.html
 
 <!DOCTYPE html>
@@ -48,8 +48,10 @@ map.html
         </centre>
     </body>
 </html>
-
+```
 ## Output:
+
+
 
 
 
